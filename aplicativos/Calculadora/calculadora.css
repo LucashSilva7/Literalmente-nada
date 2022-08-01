@@ -1,0 +1,16 @@
+#calculator {
+  height: 30rem;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  width: 6rem;
+  flex-direction: column; }
+  #calculator #input-number {
+    height: 3rem; }
+  #calculator div {
+    display: flex;
+    flex-direction: column; }
+    #calculator div .button {
+      height: 3rem; }
+
+/*# sourceMappingURL=calculadora.css.map */

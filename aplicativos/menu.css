@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(40, 70, 168, 0.534);
+}
+
+.games-list {
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.games-list {
+    padding: 0;
+}
+
+.games-list li {
+    list-style: none;
+}
+
+.games-list .game a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
